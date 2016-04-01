@@ -1,0 +1,10 @@
+MSH|^~\&|||||20141026175757||ORU^R01|||2.5
+PID|||12^^^MIMIC2||||28030514|M
+OBX||NM|2069-3^^LOINC||109.0
+OBR||||2069-3^Chloride [Moles/volume] in Blood^LOINC|||287509240740
+
+
+MRN: 12
+Value: 109.0
+LOINC Code: 2069-3
+Text Name/Description: Chloride [Moles/volume] in Blood

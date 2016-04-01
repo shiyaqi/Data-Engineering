@@ -1,0 +1,10 @@
+MSH|^~\&|||||20141026175756||ORU^R01|||2.5
+PID|||37^^^MIMIC2||||31950911|M
+OBX||NM|30428-7^^LOINC||85.0
+OBR||||30428-7^Erythrocyte mean corpuscular volume [Entitic volume]^LOINC|||326408140600
+
+
+MRN: 37
+Value: 85.0
+LOINC Code: 30428-7
+Text Name/Description: Erythrocyte mean corpuscular volume [Entitic volume]

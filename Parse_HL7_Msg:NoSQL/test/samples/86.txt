@@ -1,0 +1,10 @@
+MSH|^~\&|||||20141026175757||ORU^R01|||2.5
+PID|||12^^^MIMIC2||||28030514|M
+OBX||NM|1920-8^^LOINC||51.0
+OBR||||1920-8^Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma^LOINC|||287509240740
+
+
+MRN: 12
+Value: 51.0
+LOINC Code: 1920-8
+Text Name/Description: Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma

@@ -1,0 +1,10 @@
+MSH|^~\&|||||20141026175757||ORU^R01|||2.5
+PID|||61^^^MIMIC2||||32971027|M
+OBX||ST|30434-5^^LOINC||NORMAL
+OBR||||30434-5^Microcytes [Presence] in Blood^LOINC|||335206231330
+
+
+MRN: 61
+Value: NORMAL
+LOINC Code: 30434-5
+Text Name/Description: Microcytes [Presence] in Blood

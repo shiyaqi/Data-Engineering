@@ -1,0 +1,10 @@
+MSH|^~\&|||||20141026175757||ORU^R01|||2.5
+PID|||56^^^MIMIC2||||25530526|F
+OBX||NM|2823-3^^LOINC||4.0
+OBR||||2823-3^Potassium [Moles/volume] in Serum or Plasma^LOINC|||264401170030
+
+
+MRN: 56
+Value: 4.0
+LOINC Code: 2823-3
+Text Name/Description: Potassium [Moles/volume] in Serum or Plasma

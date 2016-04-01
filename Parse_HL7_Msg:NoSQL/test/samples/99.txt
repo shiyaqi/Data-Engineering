@@ -1,0 +1,10 @@
+MSH|^~\&|||||20141026175757||ORU^R01|||2.5
+PID|||67^^^MIMIC2||||29030604|M
+OBX||NM|1963-8^^LOINC||20.0
+OBR||||1963-8^Bicarbonate [Moles/volume] in Serum^LOINC|||297611282122
+
+
+MRN: 67
+Value: 20.0
+LOINC Code: 1963-8
+Text Name/Description: Bicarbonate [Moles/volume] in Serum

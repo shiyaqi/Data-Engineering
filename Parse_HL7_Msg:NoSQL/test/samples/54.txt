@@ -1,0 +1,10 @@
+MSH|^~\&|||||20141026175757||ORU^R01|||2.5
+PID|||78^^^MIMIC2||||27290808|M
+OBX||ST|9317-9^^LOINC||VERY LOW
+OBR||||9317-9^Platelets [Presence] in Blood by Manual count^LOINC|||277803221750
+
+
+MRN: 78
+Value: VERY LOW
+LOINC Code: 9317-9
+Text Name/Description: Platelets [Presence] in Blood by Manual count

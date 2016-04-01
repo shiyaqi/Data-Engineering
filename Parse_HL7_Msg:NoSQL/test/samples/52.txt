@@ -1,0 +1,10 @@
+MSH|^~\&|||||20141026175757||ORU^R01|||2.5
+PID|||78^^^MIMIC2||||27290808|M
+OBX||ST|10378-8^^LOINC||NORMAL
+OBR||||10378-8^Polychromasia [Presence] in Blood by Light microscopy^LOINC|||277803221750
+
+
+MRN: 78
+Value: NORMAL
+LOINC Code: 10378-8
+Text Name/Description: Polychromasia [Presence] in Blood by Light microscopy

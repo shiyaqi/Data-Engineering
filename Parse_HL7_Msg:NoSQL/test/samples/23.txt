@@ -1,0 +1,10 @@
+MSH|^~\&|||||20141026175756||ORU^R01|||2.5
+PID|||31^^^MIMIC2||||26060517|M
+OBX||NM|3094-0^^LOINC||13.0
+OBR||||3094-0^Urea nitrogen [Mass/volume] in Serum or Plasma^LOINC|||267808220003
+
+
+MRN: 31
+Value: 13.0
+LOINC Code: 3094-0
+Text Name/Description: Urea nitrogen [Mass/volume] in Serum or Plasma

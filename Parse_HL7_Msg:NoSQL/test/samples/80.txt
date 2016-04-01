@@ -1,0 +1,10 @@
+MSH|^~\&|||||20141026175757||ORU^R01|||2.5
+PID|||61^^^MIMIC2||||32971027|M
+OBX||ST|728-6^^LOINC||NORMAL
+OBR||||728-6^Hypochromia [Presence] in Blood by Light microscopy^LOINC|||335206231330
+
+
+MRN: 61
+Value: NORMAL
+LOINC Code: 728-6
+Text Name/Description: Hypochromia [Presence] in Blood by Light microscopy

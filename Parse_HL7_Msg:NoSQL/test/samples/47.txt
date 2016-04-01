@@ -1,0 +1,10 @@
+MSH|^~\&|||||20141026175756||ORU^R01|||2.5
+PID|||37^^^MIMIC2||||31950911|M
+OBX||NM|20570-8^^LOINC||33.0
+OBR||||20570-8^Hematocrit [Volume Fraction] of Blood^LOINC|||326408140600
+
+
+MRN: 37
+Value: 33.0
+LOINC Code: 20570-8
+Text Name/Description: Hematocrit [Volume Fraction] of Blood

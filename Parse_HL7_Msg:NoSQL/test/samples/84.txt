@@ -1,0 +1,10 @@
+MSH|^~\&|||||20141026175757||ORU^R01|||2.5
+PID|||12^^^MIMIC2||||28030514|M
+OBX||NM|1798-8^^LOINC||91.0
+OBR||||1798-8^Amylase [Enzymatic activity/volume] in Serum or Plasma^LOINC|||287509240740
+
+
+MRN: 12
+Value: 91.0
+LOINC Code: 1798-8
+Text Name/Description: Amylase [Enzymatic activity/volume] in Serum or Plasma

@@ -1,0 +1,10 @@
+MSH|^~\&|||||20141026175757||ORU^R01|||2.5
+PID|||61^^^MIMIC2||||32971027|M
+OBX||NM|3173-2^^LOINC||27.5
+OBR||||3173-2^Activated partial thrombplastin time (aPTT) in Blood by Coagulation assay^LOINC|||335206231330
+
+
+MRN: 61
+Value: 27.5
+LOINC Code: 3173-2
+Text Name/Description: Activated partial thrombplastin time (aPTT) in Blood by Coagulation assay

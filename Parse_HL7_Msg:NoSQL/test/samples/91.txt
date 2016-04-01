@@ -1,0 +1,10 @@
+MSH|^~\&|||||20141026175757||ORU^R01|||2.5
+PID|||67^^^MIMIC2||||29030604|M
+OBX||ST|48425-3^^LOINC||<0.01
+OBR||||48425-3^Troponin T.cardiac [Mass/volume] in Blood^LOINC|||297611282122
+
+
+MRN: 67
+Value: <0.01
+LOINC Code: 48425-3
+Text Name/Description: Troponin T.cardiac [Mass/volume] in Blood

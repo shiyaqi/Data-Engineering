@@ -1,0 +1,10 @@
+MSH|^~\&|||||20141026175757||ORU^R01|||2.5
+PID|||67^^^MIMIC2||||29030604|M
+OBX||NM|2160-0^^LOINC||1.6
+OBR||||2160-0^Creatinine [Mass/volume] in Serum or Plasma^LOINC|||297611282122
+
+
+MRN: 67
+Value: 1.6
+LOINC Code: 2160-0
+Text Name/Description: Creatinine [Mass/volume] in Serum or Plasma

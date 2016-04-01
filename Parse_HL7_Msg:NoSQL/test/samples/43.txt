@@ -1,0 +1,10 @@
+MSH|^~\&|||||20141026175756||ORU^R01|||2.5
+PID|||37^^^MIMIC2||||31950911|M
+OBX||NM|30385-9^^LOINC||14.9
+OBR||||30385-9^Erythrocyte distribution width [Ratio]^LOINC|||326408140600
+
+
+MRN: 37
+Value: 14.9
+LOINC Code: 30385-9
+Text Name/Description: Erythrocyte distribution width [Ratio]

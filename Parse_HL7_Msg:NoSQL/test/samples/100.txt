@@ -1,0 +1,10 @@
+MSH|^~\&|||||20141026175757||ORU^R01|||2.5
+PID|||67^^^MIMIC2||||29030604|M
+OBX||NM|41276-7^^LOINC||22.0
+OBR||||41276-7^Anion gap in Blood^LOINC|||297611282122
+
+
+MRN: 67
+Value: 22.0
+LOINC Code: 41276-7
+Text Name/Description: Anion gap in Blood

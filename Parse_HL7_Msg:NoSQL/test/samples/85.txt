@@ -1,0 +1,10 @@
+MSH|^~\&|||||20141026175757||ORU^R01|||2.5
+PID|||12^^^MIMIC2||||28030514|M
+OBX||NM|1783-0^^LOINC||395.0
+OBR||||1783-0^Alkaline phosphatase [Enzymatic activity/volume] in Blood^LOINC|||287509240740
+
+
+MRN: 12
+Value: 395.0
+LOINC Code: 1783-0
+Text Name/Description: Alkaline phosphatase [Enzymatic activity/volume] in Blood

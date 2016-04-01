@@ -1,0 +1,10 @@
+MSH|^~\&|||||20141026175757||ORU^R01|||2.5
+PID|||61^^^MIMIC2||||32971027|M
+OBX||NM|26515-7^^LOINC||521.0
+OBR||||26515-7^Platelets [#/volume] in Blood^LOINC|||335206231330
+
+
+MRN: 61
+Value: 521.0
+LOINC Code: 26515-7
+Text Name/Description: Platelets [#/volume] in Blood

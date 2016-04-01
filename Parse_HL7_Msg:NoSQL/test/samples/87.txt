@@ -1,0 +1,10 @@
+MSH|^~\&|||||20141026175757||ORU^R01|||2.5
+PID|||12^^^MIMIC2||||28030514|M
+OBX||NM|1742-6^^LOINC||89.0
+OBR||||1742-6^Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma^LOINC|||287509240740
+
+
+MRN: 12
+Value: 89.0
+LOINC Code: 1742-6
+Text Name/Description: Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma

@@ -1,0 +1,10 @@
+MSH|^~\&|||||20141026175756||ORU^R01|||2.5
+PID|||21^^^MIMIC2||||30510522|M
+OBX||NM|5964-2^^LOINC||13.3
+OBR||||5964-2^Prothrombin time (PT) in Blood by Coagulation assay^LOINC|||313810071125
+
+
+MRN: 21
+Value: 13.3
+LOINC Code: 5964-2
+Text Name/Description: Prothrombin time (PT) in Blood by Coagulation assay

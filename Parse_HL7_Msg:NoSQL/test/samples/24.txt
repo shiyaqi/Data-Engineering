@@ -1,0 +1,10 @@
+MSH|^~\&|||||20141026175756||ORU^R01|||2.5
+PID|||31^^^MIMIC2||||26060517|M
+OBX||NM|2345-7^^LOINC||110.0
+OBR||||2345-7^Glucose [Mass/volume] in Serum or Plasma^LOINC|||267808220003
+
+
+MRN: 31
+Value: 110.0
+LOINC Code: 2345-7
+Text Name/Description: Glucose [Mass/volume] in Serum or Plasma

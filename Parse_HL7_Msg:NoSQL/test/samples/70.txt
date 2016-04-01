@@ -1,0 +1,10 @@
+MSH|^~\&|||||20141026175757||ORU^R01|||2.5
+PID|||56^^^MIMIC2||||25530526|F
+OBX||NM|26464-8^^LOINC||10.0
+OBR||||26464-8^Leukocytes [#/volume] in Blood^LOINC|||264401170030
+
+
+MRN: 56
+Value: 10.0
+LOINC Code: 26464-8
+Text Name/Description: Leukocytes [#/volume] in Blood

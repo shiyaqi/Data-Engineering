@@ -1,0 +1,10 @@
+MSH|^~\&|||||20141026175756||ORU^R01|||2.5
+PID|||3^^^MIMIC2||||26060228|M
+OBX||ST|779-9^^LOINC||NORMAL
+OBR||||779-9^Poikilocytosis [Presence] in Blood by Light microscopy^LOINC|||268208221624
+
+
+MRN: 3
+Value: NORMAL
+LOINC Code: 779-9
+Text Name/Description: Poikilocytosis [Presence] in Blood by Light microscopy

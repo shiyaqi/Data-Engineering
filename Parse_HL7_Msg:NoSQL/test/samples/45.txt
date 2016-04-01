@@ -1,0 +1,10 @@
+MSH|^~\&|||||20141026175756||ORU^R01|||2.5
+PID|||37^^^MIMIC2||||31950911|M
+OBX||NM|28539-5^^LOINC||27.7
+OBR||||28539-5^Erythrocyte mean corpuscular hemoglobin [Entitic mass]^LOINC|||326408140600
+
+
+MRN: 37
+Value: 27.7
+LOINC Code: 28539-5
+Text Name/Description: Erythrocyte mean corpuscular hemoglobin [Entitic mass]

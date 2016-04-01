@@ -1,0 +1,10 @@
+MSH|^~\&|||||20141026175756||ORU^R01|||2.5
+PID|||31^^^MIMIC2||||26060517|M
+OBX||NM|34714-6^^LOINC||1.2
+OBR||||34714-6^INR in Blood by Coagulation assay^LOINC|||267808220003
+
+
+MRN: 31
+Value: 1.2
+LOINC Code: 34714-6
+Text Name/Description: INR in Blood by Coagulation assay

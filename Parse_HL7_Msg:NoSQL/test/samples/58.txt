@@ -1,0 +1,10 @@
+MSH|^~\&|||||20141026175757||ORU^R01|||2.5
+PID|||78^^^MIMIC2||||27290808|M
+OBX||ST|30424-6^^LOINC||1+
+OBR||||30424-6^Macrocytes [Presence] in Blood^LOINC|||277803221750
+
+
+MRN: 78
+Value: 1+
+LOINC Code: 30424-6
+Text Name/Description: Macrocytes [Presence] in Blood
