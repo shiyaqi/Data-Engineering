@@ -9,15 +9,15 @@ and observation.
 
 ### Classifiers and Parameter ###
  1. Naive Bayes
-   * 4 features : ![Naive Bayes 4 features](/img/figure_1.png)
-   * 3 features with no ctm2 : ![Naive Bayes 3 features](/img/figure_4.png)
+   * 4 features : ![Naive Bayes 4 features](/featureSelection_Classification/img/figure_1.png)
+   * 3 features with no ctm2 : ![Naive Bayes 3 features](/featureSelection_Classification/img/figure_4.png)
    * Observation: All metrics are improved when trained with 4 features.
    * Limitation of Naive Bayes: Native Bayes assume each features are not correlated, thus, if trained with features what are correlated to 
     each other, the weights of the features which are correlated will be double counted in the model. In this data set, there is no strong
     correlations among features.(see correlations below) 
  2. Logistic Regression
-   * 4 features : ![Logistic Regression 4 features](/img/figure_2.png)
-   * 3 features with no ctm2 : ![Logistic Regression 3 features](/img/figure_5.png)
+   * 4 features : ![Logistic Regression 4 features](/featureSelection_Classification/img/figure_2.png)
+   * 3 features with no ctm2 : ![Logistic Regression 3 features](/featureSelection_Classification/img/figure_5.png)
    * Observation: Only AUC is slightly improved, the rest of metrics are not improved when trained with 4 features.  
  3. Support Vector 
    * Grid search is used to choose the best parameters
@@ -28,8 +28,8 @@ and observation.
    * kernel: rbf
    * C: 1000
    * gamma: 0.01
-   * 4 features : ![Support Vector 4 features](/img/figure_3.png)
-   * 3 features with no ctm2 : ![Support Vector 3 features](/img/figure_6.png)
+   * 4 features : ![Support Vector 4 features](/featureSelection_Classification/img/figure_3.png)
+   * 3 features with no ctm2 : ![Support Vector 3 features](/featureSelection_Classification/img/figure_6.png)
    * * Observation: All metrics expect sensitivity are improved when trained with 4 features.
    
    
@@ -59,7 +59,7 @@ Two methods are used for feature Selections: Principal component analysis (PCA) 
      
      Surprisingly, cmt2, which carries the 2nd large variance are supposed to be ranked as more important 
    than 'age' and 'length of stay', is dropped by RFE when doing logistic regression. In order to explore the reason for this, we should look at the 
-   correlations between features with the outcome[(The result is from explore_lab8.R file)](/explore_lab8.R). 
+   correlations between features with the outcome[(The result is from explore_lab8.R file)](/featureSelection_Classification/explore_lab8.R). 
    
                             ctm2         age         los      outcome        ctm1
                ctm2     1.000000000 0.005175999 0.017086237 -0.001908418 0.008931643
@@ -88,8 +88,8 @@ Two methods are used for feature Selections: Principal component analysis (PCA) 
 ## Part2 
 ### Classifiers and Parameter ###
 1. Random Forest                                                             
-  * 4 features : ![Random forest 4 features](/img/figure_rfc-4.png)  
-  * 3 features with no 'length of stay' : ![Random forest 3 features](/img/figure_rfc-3.png)  
+  * 4 features : ![Random forest 4 features](/featureSelection_Classification/img/figure_rfc-4.png)  
+  * 3 features with no 'length of stay' : ![Random forest 3 features](/featureSelection_Classification/img/figure_rfc-3.png)  
   * Parameter for both 4 and 3 features are : n_estimators=100
   * Observation: Trained with 3 features(with no 'length of stay') has slightly better performance than 4 features. This is because 
    random forest is overfitted with redundant information. 
