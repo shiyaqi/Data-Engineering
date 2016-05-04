@@ -15,7 +15,9 @@ import matplotlib.pyplot as plt
 
 
 if __name__ == '__main__':
-    path = os.getcwd()[:-3]+ 'data.csv'
+    wd = os.getcwd()
+    parent_wd = os.path.dirname(wd)
+    path = parent_wd + '/data.csv'
     datatypes = ('category',str),('congestive_heart_failure',int),
     data = np.genfromtxt(path, delimiter=",",skip_header=1)
 
